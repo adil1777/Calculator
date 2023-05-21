@@ -1,0 +1,16 @@
+
+  .flex{
+    display:flex;
+  }
+  .flex-col{
+    flex-direction:column;
+  }
+  .item-content{
+      align-items:center;
+  }
+  .text-center{
+    text-align:center;
+  }
+  .bg-red{
+   background:red;
+  }
